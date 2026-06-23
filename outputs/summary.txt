@@ -1,0 +1,15 @@
+FIRE & SMOKE DETECTION REPORT
+========================================
+Total frames scanned: 603
+Frames with fire/smoke detected: 314
+Detected events: 9
+
+Event 1: frames 0-123 (117 frames) | time 0:00:00 - 0:00:04.100000 | classes: smoke | max confidence: 0.752
+Event 2: frames 137-193 (20 frames) | time 0:00:04.566667 - 0:00:06.433333 | classes: smoke | max confidence: 0.601
+Event 3: frames 205-211 (3 frames) | time 0:00:06.833333 - 0:00:07.033333 | classes: smoke | max confidence: 0.316
+Event 4: frames 241-271 (20 frames) | time 0:00:08.033333 - 0:00:09.033333 | classes: smoke | max confidence: 0.666
+Event 5: frames 285-292 (4 frames) | time 0:00:09.500000 - 0:00:09.733333 | classes: smoke | max confidence: 0.409
+Event 6: frames 312-494 (139 frames) | time 0:00:10.400000 - 0:00:16.466667 | classes: fire,smoke | max confidence: 0.77
+Event 7: frames 513-517 (3 frames) | time 0:00:17.100000 - 0:00:17.233333 | classes: smoke | max confidence: 0.447
+Event 8: frames 547-551 (3 frames) | time 0:00:18.233333 - 0:00:18.366667 | classes: smoke | max confidence: 0.334
+Event 9: frames 562-566 (4 frames) | time 0:00:18.733333 - 0:00:18.866667 | classes: smoke | max confidence: 0.555
